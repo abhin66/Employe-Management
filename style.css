@@ -1,0 +1,203 @@
+body{
+    overflow: hidden;
+    font-family: DM Sans;
+}
+
+.height{
+    height: 947px;
+}
+
+.gradiant-color{
+    background : linear-gradient(149.96deg, #301F81 12.51%, #0F0441 89.53%);
+}
+
+.para{
+    font-size: 23px;
+    color: #FFFFFF;
+    font-weight: 700;
+    padding: 0;
+    margin: 0;
+    line-height: 28.75px;
+    font-family: Poppins;
+}
+
+.gap{
+    gap:12px;
+}
+
+a{
+    text-decoration: none;
+    color:#FFFFFFB2;
+}
+
+.font-weight{
+    font-weight: 300;
+}
+
+hr{
+    border: 1px solid #FFFFFF2B;
+    color: #FFFFFF2B;
+}
+
+.padding-right{
+    padding-right: 0;
+}
+
+p{
+    color: #FFFFFF;
+    font-size: 12px; 
+    font-weight: 500;
+    font-family: DM Sans;
+}
+
+.main-div{
+    background-color: #F4F7FE;
+}
+
+.txt-sm{
+    font-size: 14px;
+    color:#707EAE;  
+}
+
+.mn-hd{
+    font-size: 34px;
+    font-weight: 700;
+    color: #2B3674;
+}
+
+.sec-mn-hd{
+    font-size: 24px;
+    font-weight: 700;
+    color: #2B3674;
+}
+
+.btnBtn{
+    background-color: transparent;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+    color:#8B95B7;
+}
+
+.color{
+    background-color:#4318FF;
+    color:white;
+    font-size: 15px;
+    font-weight: 700;
+
+}
+
+#formCancelBtn{
+    width: 122px;
+    height: 58px;
+    border-radius: 16px;
+    border: none;
+    background-color: #FAF9FF;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.cnr-para{
+    font-size: 14px;
+    font-weight: 500;
+    color:#707EAE;
+}
+
+
+.form2 {
+    width: 700px;
+    position: absolute;
+    top: 10px;
+    left: 300px;
+    display: none;
+    z-index: 99;
+}
+
+.border{
+    border-radius: 22px;
+}
+
+.details{
+    bottom:25px;
+    left:45px;
+
+}
+
+.flex-properties{
+    display: flex;
+    flex-direction: column;
+    gap:35px;
+}
+
+#overlay{
+    position: absolute;
+    top: 0px;
+    left: 0 !important;
+    display: none;
+    background-color: rgba(0, 0, 0, .8);
+    width: 100vw;
+    height: 948px;
+    z-index: 1;
+}
+
+#AddEmp{
+    width: 148px;
+    height: 50px;
+    border-radius: 16px;
+    border:none;
+    background-color:#4318FF;
+
+}
+
+#submit{
+    width: 160px;
+    height: 58px;
+    border-radius: 16px;
+    background-color: #4318FF;
+    font-family: DM Sans;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.fw-bolder{
+    color:#2B3674;
+}
+
+.fileInput{
+    border: 1px dashed #B2BAD0;
+    padding:30px;
+}
+
+.setting{
+    height: 900px;
+    overflow: auto;
+}
+
+.style{
+    font-size: 14px;
+    font-weight: 700;
+    color:#2B3674;
+}
+
+.padding-left{
+    padding-left:20px;
+}
+
+.border{
+    border-radius: 15px;
+}
+
+.normal-ft-sz::after{
+    content: "*";
+    color: red;
+}
+
+.normal-ft-sz{
+    font-size: 14px;
+    font-weight: 500;
+
+}
+
+.red{
+    color: red;
+}
