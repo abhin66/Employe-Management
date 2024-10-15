@@ -201,3 +201,19 @@ p{
 .red{
     color: red;
 }
+
+.saveChange{
+    display: none;
+}
+
+.pro-img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.activeBtn {
+    background-color: #9048c7; 
+    color: rgb(0, 208, 255) !important; 
+    border-color: #3d1111; 
+  }
